@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "林壮豪 / Zhuanghao Lin"
   pronouns         : # example: "she/her"  
-  bio              : "欢迎来到林壮豪的个人主页"
-  location         :
-  employer         :
+  bio              : "武汉理工大学人工智能学院博士研究生"
+  location         : "武汉，中国"
+  employer         : "武汉理工大学人工智能学院"
   uri              : # URL
-  email            :
+  email            : "325823@whut.edu.cn"
 
   # Academic websites
   academia         : # URL
