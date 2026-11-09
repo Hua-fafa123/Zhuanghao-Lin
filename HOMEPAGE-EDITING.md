@@ -2,7 +2,7 @@
 
 首页沿用此仓库的 Jekyll / GitHub Pages 部署方式，无需另外的托管服务。
 
-- `_pages/about.md`：首页全部内容。页面明确设置 `layout: null`，避免套入旧版主题；`permalink: /` 保持首页地址。
+- `_pages/about.html`：首页全部内容。页面明确设置 `layout: null`，避免套入旧版主题；`permalink: /` 保持首页地址。
 - `assets/css/academic-home.css`：双栏布局、配色和手机端样式。
 - `assets/js/academic-home.js`：中英文切换。
 - `_config.yml`：全站姓名及社交账号。
